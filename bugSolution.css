@@ -1,0 +1,1 @@
+To solve the specificity issue, adjust the selectors to ensure the intended style is applied.  This might involve adding more specific selectors (e.g., using IDs or more precise class names), or reorganizing the CSS rules to prioritize the desired styles.
