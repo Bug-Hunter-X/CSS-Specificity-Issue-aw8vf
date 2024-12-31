@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS specificity issue and its solution.  The `bug.css` file contains the problematic code, while `bugSolution.css` provides a corrected version.  The issue arises from incorrect selector usage resulting in unexpected styling overrides.
